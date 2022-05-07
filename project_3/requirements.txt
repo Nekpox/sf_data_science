@@ -83,6 +83,7 @@ nbconvert==6.3.0
 nbformat @ file:///tmp/build/80754af9/nbformat_1617383369282/work
 nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1613680548246/work
 networkx==2.7
+nltk==3.7
 notebook @ file:///C:/ci/notebook_1637143794296/work
 numpy==1.21.4
 nvidia-ml-py3==7.352.0
@@ -114,6 +115,7 @@ pywin32==302
 pywinpty==1.1.6
 PyYAML==6.0
 pyzmq @ file:///C:/ci/pyzmq_1638435185959/work
+regex==2022.4.24
 requests @ file:///tmp/build/80754af9/requests_1629994808627/work
 requests-toolbelt==0.9.1
 schedule==1.1.0
